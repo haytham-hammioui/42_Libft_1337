@@ -27,7 +27,7 @@ The goal of `libft` is to create a library of useful functions that will be used
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/haytham-hammioui/42_Libft_1337.git
+   git clone https://github.com/haytham-hammioui/42_Libft_1337.git libft
    ```
 
 2. **Compile the Library**
